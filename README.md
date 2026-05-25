@@ -1,2 +1,2 @@
 # Simulation-d-un-R-seau-d-Entreprise-S-curis-
-Projet de simulation d’une infrastructure réseau d’entreprise sécurisée réalisé avec Cisco Packet Tracer. Cette architecture intègre la segmentation VLAN, le routage inter-VLAN, les services réseau centralisés.....
+Projet de simulation d’une infrastructure réseau d’entreprise sécurisée réalisé avec Cisco Packet Tracer. Cette architecture intègre la segmentation VLAN, le routage inter-VLAN, les services réseau centralisés (DHCP, DNS, Web, FTP), l’accès Internet avec NAT/PAT ainsi que plusieurs mécanismes de sécurité réseau tels que les ACLs, le DHCP Snooping, le Dynamic ARP Inspection et le Port Security afin de reproduire un environnement professionnel réaliste.
